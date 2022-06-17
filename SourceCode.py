@@ -11,3 +11,14 @@ def greeting(name):
 
 
 greeting(name)
+
+def feature1():
+  print("This is Feature 1")
+
+
+def feature2():
+  print("This is Feature 2")
+
+
+feature1()
+feature2()
